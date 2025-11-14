@@ -1,0 +1,11 @@
+{
+  "name": "atividade-validacao",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Validação de valores de depósito - isPositive",
+  "main": "validatePositiveAmount.js",
+  "scripts": {
+    "test": "node validatePositiveAmount.test.js"
+  },
+  "license": "UNLICENSED"
+}
